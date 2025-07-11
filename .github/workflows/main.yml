@@ -1,4 +1,4 @@
-name: Test Secure MCP Action
+name: Test Secure Action
 
 on:
   workflow_dispatch:
